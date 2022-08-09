@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Alperen Ulutaş</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img src="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python+IDEs/patolino-pernalonga-python-ide2.gif" align="right" width="400">
@@ -25,6 +26,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alp55&show_icons=true&locale=en" alt="alp55" width="450"/></p>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alp55&" alt="alp55" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alp55&" alt="alp55" class="2" /></p>
 
 
