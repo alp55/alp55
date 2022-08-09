@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Alperen Ulutaş</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img src="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python+IDEs/patolino-pernalonga-python-ide2.gif" align="right" width="400">
